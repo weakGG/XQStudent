@@ -5,6 +5,8 @@
 
 软件开发环境：xcode6.3 + MySql
 
-语言：swift + php（后台 本地数据库）
+语言：oc + php（后台 本地数据库）
 
 GIF图片，请耐心等待...
+
+![效果图](https://github.com/weakGG/XQStudent/blob/master/gif/XQSudent.gif)
